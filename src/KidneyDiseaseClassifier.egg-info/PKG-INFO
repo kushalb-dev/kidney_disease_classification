@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: KidneyDiseaseClassifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/kushalb-dev/kidney_disease_classification-
+Author: kushalb-dev
+Author-email: kushalb.dev@gmail.com
+Project-URL: Bug Tracker, https://github.com/kushalb-dev/kidney_disease_classification-/issues
+
+# kidney_disease_classification
+
+## How to run?
+### STEPS:
+
+Clone the repository
+
+```bash
+git clone https://github.com/kushal/Kidney-Disease-Classification-Deep-Learning-Project
+```
+### STEP 01- Create a conda environment after opening the repository
+
+```bash
+conda create -n {environment_name} python=3.8 -y
+```
+
+```bash
+conda activate {environment_name}
+```
